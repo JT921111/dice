@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0 0 100 100">
+  <path d="M56 100 Q70 100,76 92 L94 68 Q100 60,100 48 L100 12 Q100 0,86 0" style="fill: #ffffff;stroke: #000000;"/>
+  <path d="M24 8 L6 32 Q0 40,14 40 L56 40 Q70 40,76 32 L94 8 Q100 0,86 0 L44 0 Q30 0,24 8" style="fill: #ffffff;stroke: #000000;"/>
+  <path d="M6 32 Q0 40,0 52 L0 88 Q0 100,14 100 L56 100 Q70 100,70 88 L70 52 Q70 40,56 40 L14 40 Q0 40,0 52" style="fill: #ffffff;stroke: #000000;"/>
+  <path d="M6 32 Q0 40,14 40 Q0 40,0 52 Q0 40,6 32" style="fill: #000000;stroke: #000000"/>
+  <path d="M56 40 Q70 40,76 32 Q70 40,70 52 Q70 40,56 40" style="fill: #000000;stroke: #000000"/>
+  <path d="M56 100 Q70 100,76 92 Q71.5 95,70 88 Q70 100,56 100" style="fill: #000000;stroke: #000000"/>
+  <path d="M100 12 Q100 0,86 0 Q100 0,94 8 Q98.5 5,100 12" style="fill: #000000;stroke: #000000"/>
+  <circle fill="000000" stroke="000000" cx="50" cy="20" r="7"/>
+  <circle fill="000000" stroke="000000" cx="25" cy="62" r="6"/>
+  <circle fill="000000" stroke="000000" cx="45" cy="78" r="6"/>
+  <circle fill="000000" stroke="000000" cx="85" cy="50" r="5"/>
+  <circle fill="000000" stroke="000000" cx="91" cy="32" r="5"/>
+  <circle fill="000000" stroke="000000" cx="79" cy="68" r="5"/>
+</svg>
